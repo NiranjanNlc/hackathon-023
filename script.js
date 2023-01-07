@@ -1,3 +1,3 @@
-const h1 = document.querySelector(h1.hello);
+const h1 = document.getElementsByClassName("hello");
 
-h1.stlye.color = "red";
+h1.style.color = "red";
