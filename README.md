@@ -1,4 +1,4 @@
-# hackathon-023
+# hackathon-023 | HackNITR 4.0
 
 With the release of robust large-language models (LLM's), such as ChatGPT, artificial intelligence (AI) can speak very similarly to humans. These LLM's are trained by using data primarily from English speaking data sources leaving room for improvement for non-English speaking data sources to perform natural language processing (NLP) research. 
 
